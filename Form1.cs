@@ -12,6 +12,7 @@ namespace TesteForms
 {
     public partial class Form1 : Form
     {
+        //adiciona button
         Button a = new Button()
         {
             BackColor = Color.Aqua,
